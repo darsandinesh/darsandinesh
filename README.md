@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/darsan dinesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darsan dinesh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/darsan dinesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="darsan dinesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/darsandinesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darsan dinesh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/darsandinesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="darsan dinesh" height="30" width="40" /></a>
 <a href="https://instagram.com/_darzan__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_darzan__" height="30" width="40" /></a>
 <a href="https://medium.com/@darsandinesh100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@darsandinesh100" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/darsandinesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darsandinesh" height="30" width="40" /></a>
